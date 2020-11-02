@@ -9,11 +9,7 @@ body {
 }
 
 /*header style*/
-<<<<<<< HEAD
 header {
-=======
-.header {
->>>>>>> 8ee646e81628e54ccfc802937f3030285fff4256
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
